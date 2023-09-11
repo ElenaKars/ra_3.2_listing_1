@@ -1,6 +1,6 @@
 import './App.css';
 import Listing from './components/Listing';
-import data from './components/data.json';
+import data from './data/data.json';
 
 function App() {
   return (
